@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="users.views.RegisterUser.as_view" />
+          <option value="GetReCrypt.GetReCrypt.urls.getrecrypt_app" />
+          <option value="GetReCrypt.GetReCrypt.urls.users" />
+          <option value="GetReCrypt.scripts.reset_the_number_of_attempts.getrecrypt_app" />
+          <option value="GetReCrypt.getrecrypt_app.views.getrecrypt_app" />
+          <option value="GetReCrypt.getrecrypt_app.views.scripts" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
